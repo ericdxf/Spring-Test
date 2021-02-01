@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spring-boot-web">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spring-boot-web.jar">
+      <element id="artifact" artifact-name="spring-boot-web:war exploded" />
+      <element id="jpa-descriptors" facet="spring-boot-web/jpa/JPA" />
+      <element id="artifact" artifact-name="spring-boot-web:war" />
+    </root>
+  </artifact>
+</component>
